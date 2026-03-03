@@ -1,6 +1,6 @@
 {
   "nav": {
-    "name": "Your Name",
+    "name": "Dwi Adhi Soegiarto",
     "menu": [
       {
         "text": "Home",
@@ -30,7 +30,7 @@
   },
   "hero": {
     "greeting": "Hi",
-    "name": "Your Name",
+    "name": "Dwi Adhi Soegiarto",
     "title": "Full Stack Developer",
     "description": "I build exceptional and accessible digital experiences for the web.",
     "image": "/images/avatar.png",
